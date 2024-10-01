@@ -1,4 +1,7 @@
 # Paradigmas-de-Linguagens-e-programa-o-
+#LINK VIDEOS EXPLICATIVO:https://www.youtube.com/watch?v=uCkaumKRhEY
+
+
 #REQUISITOS: Compilador COBOL: GNU COBOL ou ambiente online como Online GDB.
 
 #1 - baixar projeto: 
